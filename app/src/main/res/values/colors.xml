@@ -1,0 +1,7 @@
+<resources>
+    <color name="pink_background">#FFF1F6</color>
+    <color name="pink_primary">#AD245D</color>
+    <color name="pink_text">#5C1838</color>
+    <color name="pink_disabled">#EAC7D6</color>
+    <color name="pink_disabled_text">#684353</color>
+</resources>
